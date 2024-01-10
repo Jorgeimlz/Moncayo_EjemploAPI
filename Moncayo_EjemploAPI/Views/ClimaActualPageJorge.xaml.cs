@@ -4,9 +4,9 @@ using System.Text.Json.Serialization;
 
 namespace Moncayo_EjemploAPI.Views;
 
-public partial class ClimaActualPage : ContentPage
+public partial class ClimaActualPageJorge : ContentPage
 {
-	public ClimaActualPage()
+	public ClimaActualPageJorge()
 	{
 		InitializeComponent();
 	}

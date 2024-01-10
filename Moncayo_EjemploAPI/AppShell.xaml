@@ -8,7 +8,7 @@
 
     <ShellContent
         Title="Home"
-        ContentTemplate="{DataTemplate views:ClimaActualPage}"
-        Route="ClimaActualPage" />
+        ContentTemplate="{DataTemplate views:ClimaActualPageJorge}"
+        Route="ClimaActualPageJorge" />
 
 </Shell>
